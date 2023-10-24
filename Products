@@ -1,1 +1,8 @@
-Upload your products here
+Upload your products in this manner:
+
+{
+  "name": "Bamboo Toothbrush",
+  "description": "A sustainable toothbrush made from biodegradable bamboo with BPA-free bristles.",
+  "price": "$4.99",
+  "image": "bamboo-toothbrush.jpg"
+}
