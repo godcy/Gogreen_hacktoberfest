@@ -1,0 +1,6 @@
+Glass Food Storage Containers:
+
+Name: Glass Food Storage Containers
+Description: A set of glass containers with airtight lids, perfect for storing food and leftovers. These containers are an eco-friendly alternative to single-use plastic.
+Price: $24.99
+Image: glass-food-storage-containers.jpg
