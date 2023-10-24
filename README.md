@@ -42,7 +42,3 @@ Feel free to modify this description to better suit your project and its goals. 
 
 
 
-Is this conversation helpful so far?
-
-
-
