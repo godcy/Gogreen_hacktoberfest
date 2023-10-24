@@ -1,0 +1,6 @@
+Reusable Shopping Bag Set:
+
+Name: Reusable Shopping Bag Set
+Description: A set of three reusable shopping bags made from recycled materials. These eco-friendly bags are perfect for reducing plastic bag usage during grocery shopping.
+Price: $12.99
+Image: reusable-shopping-bag-set.jpg
