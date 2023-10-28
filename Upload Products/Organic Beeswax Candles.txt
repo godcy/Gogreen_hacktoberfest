@@ -1,0 +1,6 @@
+Organic Beeswax Candles:
+
+Name: Organic Beeswax Candles
+Description: Handcrafted candles made from organic beeswax and cotton wicks, emitting a natural honey scent when lit. These candles are eco-friendly, non-toxic, and provide a warm, soothing ambiance to any space.
+Price: $19.99
+Image: organic-beeswax-candles.jpg
