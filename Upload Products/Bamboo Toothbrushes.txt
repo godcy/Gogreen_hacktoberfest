@@ -1,0 +1,6 @@
+Bamboo Toothbrushes:
+
+Name: Bamboo Toothbrushes
+Description: These toothbrushes are made from sustainable and biodegradable bamboo, offering a natural alternative to plastic toothbrushes. They come with soft bristles that are gentle on the gums and teeth, and they are an eco-friendly choice for maintaining oral hygiene.
+Price: $8.99 for a pack of 4
+Image: bamboo-toothbrushes.jpg
